@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://demo-hugo-joan.aws03.asixcloud2024.cat/'
+languageCode = 'ca-es'
+title = 'Demo web esttica'
 theme = 'ananke'
