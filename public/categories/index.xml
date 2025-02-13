@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Demo web esttica</title>
-    <link>https://demo-hugo-joan.aws03.asixcloud2024.cat/categories/</link>
+    <link>https://another.aws03.asixcloud2024.cat/categories/</link>
     <description>Recent content in Categories on Demo web esttica</description>
     <generator>Hugo</generator>
     <language>ca-es</language>
-    <atom:link href="https://demo-hugo-joan.aws03.asixcloud2024.cat/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://another.aws03.asixcloud2024.cat/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
